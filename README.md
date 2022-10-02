@@ -27,7 +27,7 @@ uBot is controlled by a micro:bit board, installed on a micro:bit extension boar
 
 The microcontroller controls the speeds of the two motors, via a dual motor driver DRV8838 module, using PWM signals.
 
-[<img src=https://github.com/magape/uBot/blob/14cb04c93d6d7820f3e731355ba3ac0390ead9fe/img/uBot_YouTube.png title="uBot test" width=50%]( https://youtu.be/6SwylmoUkn4)
+[<img src=https://github.com/magape/uBot/blob/14cb04c93d6d7820f3e731355ba3ac0390ead9fe/img/uBot_YouTube.png title="uBot test" width=50%>]( https://youtu.be/6SwylmoUkn4)
 
 ## Credits
 
